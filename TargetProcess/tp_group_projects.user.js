@@ -32,7 +32,7 @@ function highlight()
 
 function insertUi()
 {
-    $('<p class="tptshhighlight">Refresh highlights</p>').insertAfter('.settings');
+    $('<p class="tptshhighlight">Refresh Highlights</p>').insertAfter('.settings');
     $('.tptshhighlight').css('cursor', 'pointer');
     $('.tptshhighlight').click(function () {
         highlight();
