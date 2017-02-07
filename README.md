@@ -1,6 +1,6 @@
 Hash
 ====
-A random collection of scripts and programs too insignificant to warrant their own repository.  Some of these are collected and modified form other 
+A random collection of scripts and programs too insignificant to warrant their own repository.  Some of these are collected and modified form other.
 
 - - -
 
